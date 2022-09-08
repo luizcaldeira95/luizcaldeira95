@@ -1,3 +1,3 @@
 * 👀 Olá Mundo!
 * 🙂 Me chamo Luiz Caldeira.
-* 🎓 Sou estudante de ADS na faculdade Pitágoras.
+* 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
