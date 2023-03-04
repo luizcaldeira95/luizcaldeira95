@@ -1,6 +1,8 @@
 * 👀 Olá Mundo!
 * 🙂 Me chamo Luiz Caldeira.
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
+* 💻 Estou focado em me tornar um desenvolvedor Back-End
+* ☕ Estudando Java
 
 
 <div align="center">
