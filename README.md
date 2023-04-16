@@ -2,7 +2,13 @@
 * 🙂 Me chamo Luiz Caldeira.
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
 * 💻 Estou focado em me tornar um desenvolvedor Back-End
-* ☕ Estudando Python
+* ☕ Estudando:
+*     Python
+*     JavaScript
+*     MySQL
+*     HTML5
+*     CSS
+*     
 
 
 <div align="center">
