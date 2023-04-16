@@ -8,7 +8,7 @@
 *     MySQL
 *     HTML5
 *     CSS
-
+*     Lógica e Algoritmos 
 
 <div align="center">
   <a href="https://github.com/luizcaldeira95">
