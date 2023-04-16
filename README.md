@@ -8,7 +8,6 @@
 *     MySQL
 *     HTML5
 *     CSS
-*     
 
 
 <div align="center">
