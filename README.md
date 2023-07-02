@@ -1,5 +1,5 @@
 * 👀 Olá Mundo!
-* 🙂 Me chamo Luiz Caldeira.
+* 🙂 Meu nome é Luiz Caldeira.
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
 * 💻 Estou focado em me tornar um desenvolvedor Back-End
 * ☕ Estudando:
@@ -8,7 +8,7 @@
 *     MySQL
 *     HTML5
 *     CSS
-*     Lógica e Algoritmos 
+
 
 <div align="center">
   <a href="https://github.com/luizcaldeira95">
