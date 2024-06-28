@@ -1,14 +1,25 @@
 * 👀 Olá Mundo!
+*     Hello World!
 * 🙂 Meu nome é Luiz Caldeira.
-* 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
+*     My name is Luiz Caldeira.
+* 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+*     Degree in systems analysis and development
 * 💻 Estou focado em me tornar um desenvolvedor Back-End
+*     I'm focused on becoming a back end developer
+* 
 * ☕ Estudando:
-*     Python
-*     JavaScript
-*     MySQL
-*     HTML5
-*     CSS
-
+*     Studding:
+* 
+      Python
+      JavaScript
+      Php
+      C#
+      C++
+      Lua
+      C
+      MySQL
+      HTML5
+      CSS
 
 <div align="center">
   <a href="https://github.com/luizcaldeira95">
