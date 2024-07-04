@@ -10,16 +10,14 @@
 * ☕ Estudando:
 *     Studding:
 * 
+      Algoritmos
+      Logica de Programação
       Python
-      JavaScript
-      Php
-      C#
-      C++
-      Lua
-      C
       MySQL
-      HTML5
-      CSS
+      Git
+      
+      
+      
 
 <div align="center">
   <a href="https://github.com/luizcaldeira95">
