@@ -1,42 +1,39 @@
-👋 Olá!
+# 👋 Olá, eu sou o Luiz Caldeira
 
-Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+💼 Focado em **Python, Segurança da Informação, Automação e Banco de Dados**  
+🚀 Apaixonado por tecnologia e soluções práticas para problemas reais  
 
-Atualmente, estou me aprofundando em Python, MySQL, redes e segurança da informação, com foco na criação de projetos práticos que resolvam problemas reais.
+---
 
-Acredito na aprendizagem contínua, na curiosidade constante e no uso da tecnologia para causar um impacto positivo.
+## 🌱 Atualmente estudando
+- Python  
+- Segurança da Informação  
+- Automação de Projetos  
+- MySQL e Banco de Dados  
+- Redes e Infraestrutura  
 
-Neste GitHub, registro meus projetos, ideias e meu desenvolvimento enquanto avanço no mundo da tecnologia e da segurança digital.
+---
 
-Atualmente estudando:
-🐍 Python
-🔒 Segurança da Informação
-🛠️ Automação de Projetos
-🗄️ MySQL e Banco de Dados
-🌐 Redes e Infraestrutura
+## 📊 Estatísticas no GitHub  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcaldeira95&show_icons=true&count_private=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcaldeira95&layout=compact&theme=github_dark)  
 
+---
 
+## 🛠️ Tecnologias  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white)  
+![InfoSec](https://img.shields.io/badge/InfoSec-2C2C2C?style=flat-square&logo=protonmail&logoColor=white)  
 
+---
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📫 Contato  
+[LinkedIn](https://www.linkedin.com/in/luizcaldeira95) | [Email](luizcaldeira1995@gmail.com)  
 
+---
 
-
-
-👋 Hey there!
-
-I'm a Systems Analysis and Development graduate, passionate about technology and constantly sharpening my skills.
-
-Currently, I'm diving deeper into Python, MySQL, networking, and information security, focusing on building practical projects that solve real-world problems.
-
-I believe in continuous learning, staying curious, and leveraging technology to make a meaningful impact.
-
-This GitHub is where I track my projects, ideas, and growth as I advance in tech and digital security.
-
-Currently learning:
-🐍 Python
-🔒 Information Security
-🛠️ Project Automation
-🗄️ MySQL and Databases
-🌐 Networking and Infrastructure
-
+✨ *“Aprendizagem contínua e curiosidade são as chaves para inovação.”*  
